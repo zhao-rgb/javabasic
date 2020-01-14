@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1faf2344-0b82-4cf5-b621-73e4356ba158" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Copy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +42,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Copy">
+    <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Copy" />
+      <module name="javabasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="random" />
       <module name="javabasic" />
@@ -51,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Copy" />
         <item itemvalue="Application.random" />
       </list>
     </recent_temporary>
@@ -66,6 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578919720907</updated>
       <workItem from="1578919722239" duration="1818000" />
+      <workItem from="1578973823705" duration="374000" />
+      <workItem from="1579006521272" duration="1628000" />
     </task>
     <servers />
   </component>
@@ -77,7 +88,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
