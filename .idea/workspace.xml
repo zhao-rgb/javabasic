@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1faf2344-0b82-4cf5-b621-73e4356ba158" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/157688830886870.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreading/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/v2-0262f200855e4f34d5fe0df839e0b06f_hd.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javabasic/Copy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javabasic/random.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +28,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WLCvmfSbR2wxZSeUx99fer54JI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -42,10 +51,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Copy">
+  <component name="RunManager" selected="Application.ThreadPool">
     <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Copy" />
       <module name="javabasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.ThreadPool" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadPool" />
         <item itemvalue="Application.Copy" />
         <item itemvalue="Application.random" />
       </list>
@@ -76,7 +99,9 @@
       <updated>1578919720907</updated>
       <workItem from="1578919722239" duration="1818000" />
       <workItem from="1578973823705" duration="374000" />
-      <workItem from="1579006521272" duration="1628000" />
+      <workItem from="1579006521272" duration="2269000" />
+      <workItem from="1579065229365" duration="34000" />
+      <workItem from="1580298125889" duration="1460000" />
     </task>
     <servers />
   </component>
@@ -95,5 +120,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
